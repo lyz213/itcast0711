@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class TestActiviti {
 
-	/**使用代码创建工作流需要的23张表111222*/
+	/**使用代码创建工作流需要的23张表111222333*/
 	@Test
 	public void createTable(){
 		ProcessEngineConfiguration processEngineConfiguration = ProcessEngineConfiguration.createStandaloneProcessEngineConfiguration();
